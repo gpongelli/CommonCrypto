@@ -15,8 +15,8 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "6EC3F5F21AF6DCFE00B71D46"
-               BuildableName = "CommonCrypto.framework"
-               BlueprintName = "CommonCrypto"
+               BuildableName = "CommonCrypto OS X.framework"
+               BlueprintName = "CommonCrypto OS X"
                ReferencedContainer = "container:CommonCrypto.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
@@ -57,8 +57,8 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "6EC3F5F21AF6DCFE00B71D46"
-            BuildableName = "CommonCrypto.framework"
-            BlueprintName = "CommonCrypto"
+            BuildableName = "CommonCrypto OS X.framework"
+            BlueprintName = "CommonCrypto OS X"
             ReferencedContainer = "container:CommonCrypto.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
@@ -76,8 +76,8 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "6EC3F5F21AF6DCFE00B71D46"
-            BuildableName = "CommonCrypto.framework"
-            BlueprintName = "CommonCrypto"
+            BuildableName = "CommonCrypto OS X.framework"
+            BlueprintName = "CommonCrypto OS X"
             ReferencedContainer = "container:CommonCrypto.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
@@ -94,8 +94,8 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "6EC3F5F21AF6DCFE00B71D46"
-            BuildableName = "CommonCrypto.framework"
-            BlueprintName = "CommonCrypto"
+            BuildableName = "CommonCrypto OS X.framework"
+            BlueprintName = "CommonCrypto OS X"
             ReferencedContainer = "container:CommonCrypto.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
